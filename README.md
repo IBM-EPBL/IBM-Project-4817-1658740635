@@ -11,3 +11,8 @@ https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
 
 ASSIGNMENT1-DEEPAA
   https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAssignment%2B1-%2BDeepaasree%2BVK&action=view&mode=dashboard&subView=model0000018354471412_00000000
+  
+  
+  Assignement-2-Thana swvtha A
+  
+  https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FASSIGNMENT-2&action=view&mode=dashboard&subView=model000001837040ed29_00000000
