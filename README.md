@@ -17,7 +17,7 @@ https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
 Assignment-2 - Deepaasree VK
 https://us1.ca.analytics.ibm.com/bi/perspective=dashboard&pathRef=.my_folders%2FAssignment%2B2%2BDeepaasree%2BVK&action=view&mode=dashboard&subView=model0000018375f31374_00000000
 
-Assignement-3-Thana swvtha A
+Assignment-3-Thana swvtha A
 https://colab.research.google.com/drive/10dgZbR7pFpmdSqQk9W6miOKA2b1AoMV3#scrollTo=KY26xchzltmX
 
 Assignment-3 - Deepaasree VK 
